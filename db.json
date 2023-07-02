@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản Phẩm 1 upDTE",
+      "price": 1000,
+      "description": "Sản Phẩm tot"
+    },
+    {
+      "id": 2,
+      "name": "Sản Phẩm 2",
+      "price": 2000,
+      "description": "Sản Phẩm tot"
+    },
+    {
+      "name": "lương đẹp trai",
+      "price": "2003",
+      "description": "quá đepk ỷa",
+      "id": 3
+    },
+    {
+      "name": "loan xinh gái update",
+      "price": "34",
+      "description": "xinh gai",
+      "id": 4
+    },
+    {
+      "name": "luong them hhhh",
+      "price": "123",
+      "description": "kdkkd upadte",
+      "id": 5
+    }
+  ]
+}
